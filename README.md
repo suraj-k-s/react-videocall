@@ -16,12 +16,12 @@ npm install
 
 Run server
 ```
-npm watch:server
+npm run watch:server
 ```
 
 Run webpack-dev-server
 ```
-npm watch:client
+npm run watch:client
 ```
 
 
