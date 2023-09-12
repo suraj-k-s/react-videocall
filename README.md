@@ -9,21 +9,19 @@ Everytime you open a new tab, the server gives you a totally different unique ID
 ### Installation
 
 ```
-npm install -g yarn
-
-yarn install
+npm install
 ```
 
 ### Development
 
 Run server
 ```
-yarn watch:server
+npm watch:server
 ```
 
 Run webpack-dev-server
 ```
-yarn watch:client
+npm watch:client
 ```
 
 
